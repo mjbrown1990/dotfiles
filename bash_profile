@@ -1,5 +1,3 @@
-export PATH=/usr/local/bin:/usr/local/share/npm/bin:/usr/local/php5/bin:/usr/local/sbin:/usr/bin:/bin:/usr/sbin:/sbin
-
 export CLICOLOR=1
 export LSCOLORS=dxfxcxdxbxegedabagacad
 alias l="ls -lh"
